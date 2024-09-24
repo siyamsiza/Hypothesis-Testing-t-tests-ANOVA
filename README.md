@@ -28,12 +28,12 @@ To run the app on your local machine, follow these steps:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/siyamsiza/Hypothesis-Testing-t-tests-ANOVA.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd your-repository-name
+    cd siyamsiza
     ```
 
 3. Install the required dependencies:

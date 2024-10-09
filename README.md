@@ -68,6 +68,8 @@ This app can be deployed easily on **Streamlit Cloud**. To deploy:
 
 **Siyabonga Msiza** – Student at UCT, aspiring Data Scientist specializing in Finance and Machine Learning.
 
+LinkedIn: (https://www.linkedin.com/in/siyabonga-msiza-07506616a/)[Siyabonga]
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
